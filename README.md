@@ -167,4 +167,7 @@ Future research directions include:
 * Llama-3.2-3B-Instruct
 * Sentence Transformers
 * PyTorch
+---
+## Author - AMBIKA BANSAL 
+  
 
