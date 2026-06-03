@@ -167,6 +167,9 @@ Future research directions include:
 * Llama-3.2-3B-Instruct
 * Sentence Transformers
 * PyTorch
+## Note
+
+If GitHub is unable to render the notebook preview, please download the notebook file and open it in Google Colab. The notebook executes correctly in Colab and contains the complete implementation and evaluation pipeline.
 ---
 ## Author - AMBIKA BANSAL 
   
